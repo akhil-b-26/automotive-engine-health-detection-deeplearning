@@ -1,4 +1,4 @@
-# 🚗 Automotive Vehicle Engine Health Detection using Deep Learning
+# 🚗 Automotive Engine Health Detection using Deep Learning
 
 This project leverages deep learning to build a binary classification system that detects whether an automotive engine is **Healthy** or **Unhealthy** based on real-time sensor data. The model is trained on a labeled dataset sourced from **Kaggle** and achieves high predictive accuracy.
 
